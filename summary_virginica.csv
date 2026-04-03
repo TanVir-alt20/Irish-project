@@ -1,0 +1,7 @@
+ SepalLength,  SepalWidth, PetalLength,  PetalWidth,      Species,  PetalRatio,  SepalRatio
+Min.   :4.900  ,Min.   :2.20  ,Min.   :4.500  ,Min.   :1.400  ,setosa    : 0  ,Min.   :2.125  ,Min.   :1.824  
+1st Qu.:6.300  ,1st Qu.:2.80  ,1st Qu.:5.100  ,1st Qu.:1.800  ,versicolor: 0  ,1st Qu.:2.500  ,1st Qu.:2.031  
+Median :6.500  ,Median :3.00  ,Median :5.600  ,Median :2.000  ,virginica :49  ,Median :2.667  ,Median :2.172  
+Mean   :6.604  ,Mean   :2.98  ,Mean   :5.561  ,Mean   :2.029  ,,Mean   :2.783  ,Mean   :2.232  
+3rd Qu.:6.900  ,3rd Qu.:3.20  ,3rd Qu.:5.900  ,3rd Qu.:2.300  ,,3rd Qu.:3.056  ,3rd Qu.:2.346  
+Max.   :7.900  ,Max.   :3.80  ,Max.   :6.900  ,Max.   :2.500  ,,Max.   :4.000  ,Max.   :2.962  
